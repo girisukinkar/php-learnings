@@ -1,12 +1,13 @@
 <?php
-
 namespace models;
 
+use views\all;
 
-class home
+
+class home extends all
 {
     public function get()
     {
-        return 'models/home';
+        return parent::greetings();
     }
 }
