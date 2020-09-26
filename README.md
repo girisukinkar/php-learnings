@@ -7,3 +7,6 @@ Folder  `autoload`
 ## 2. Static methods and properties
 * How we can call the class without instantiating it
 * Folder  `static methods and properties`
+
+### array_map, array_filter, array_reduce
+* How each function works with examples
